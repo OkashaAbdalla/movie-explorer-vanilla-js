@@ -48,7 +48,7 @@ header h1 {
   cursor: pointer;
   transition: all 0.3s ease;
   font-weight: 600;
-  backdrop-filter: blur(10px);
+  
 }
 
 #themeToggle:hover {
